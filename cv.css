@@ -1,0 +1,11 @@
+html {
+    /* from https://cybernetics.social/ */
+    /* color: #ebebeb; */
+    font-family: 'Roboto Mono', monospace;
+    background: linear-gradient(120deg, #caffb4 0%, #db9df5 80%);
+}
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: ghostwhite;
+}
